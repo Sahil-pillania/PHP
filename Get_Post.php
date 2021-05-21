@@ -65,7 +65,7 @@
 
 <div class="container mt-3">
 <h1>Please enter your email and password</h1>
-    <form action="/cwhphp/21_Get_Post.php" method="post">
+    <form action="/" method="post">
     <div class="form-group">
         <label for="email">Email address</label>
         <input type="email" name="email" class="form-control" id="email" aria-describedby="emailHelp">
